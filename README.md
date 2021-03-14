@@ -38,9 +38,8 @@ Interest: [
 
 <p align="center">
   <a>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/deepak-prajapatii/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-prajapatii&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/deepak-prajapatii/blob/main/right.png">
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-prajapatii&theme=dark&hide_border=true"/>
+   <img align="right" height="180" width="160" src="https://www.logolynx.com/images/logolynx/3a/3a405b9b2166f2ca3ef2d7722b35b766.png">
 </p>
 <br/>  
   
@@ -49,7 +48,6 @@ Interest: [
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=deepak-prajapatii&show_icons=true&count_private=true&theme=radical">
 </p>
 <br>
-<!-- <img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif"> -->
 <br/>
 
 <h2><summary align="center">Most Language used by Deepak</summary></h2>
@@ -62,7 +60,7 @@ Interest: [
 
 
 
-**Tools & Technology discovered so far👨‍💻**  
+**Tools, Framework and Technoogies which I have worked on**  
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
