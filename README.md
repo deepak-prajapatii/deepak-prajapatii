@@ -38,8 +38,7 @@ Interest: [
 
 <p align="center">
   <a>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-prajapatii&theme=dark&hide_border=true"/>
-   <img align="right" height="180" width="160" src="https://www.logolynx.com/images/logolynx/3a/3a405b9b2166f2ca3ef2d7722b35b766.png">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-prajapatii&theme=dark&hide_border=true"/>
 </p>
 <br/>  
   
@@ -56,9 +55,6 @@ Interest: [
 </p>
 <br>
 <br/>
-
-
-
 
 **Tools, Framework and Technoogies which I have worked on**  
 <br/>
