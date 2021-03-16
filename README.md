@@ -56,9 +56,8 @@ Interest: [
 <br>
 <br/>
 
-**Tools, Framework and Technoogies which I have worked on**  
-<br/>
-<br/>
+- Tools, Framework and Technoogies which I have worked on
+
 <code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" width="40" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
 <code><img height="40" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"></code>
