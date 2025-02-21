@@ -5,7 +5,7 @@
 ```js
 about me () => ({
 Name: "Deepak Kumar" | "Deepak Prajapati",
-Education: "Bachelor of Science, Indira Gandhi National Open University, New Delhi, India",
+Education: "Bachelor of Science, New Delhi, India",
 Technologies: {
 "Technical skills" : [ "Android Development" ],
 "Tools and Technologies": [ "Git", "Github", "Android Studio" ],
